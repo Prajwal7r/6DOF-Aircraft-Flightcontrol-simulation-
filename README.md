@@ -44,6 +44,3 @@ These values can be modified in the script to simulate different flight scenario
 
 This project is intended for academic and research use. Please cite or acknowledge appropriately when used.
 
----
-
-Let me know if you want to add diagrams or usage examples.
